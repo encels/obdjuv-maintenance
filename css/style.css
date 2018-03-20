@@ -63,5 +63,5 @@ h3 {
     font-size:25%;
 }
 
-a:visited{color:white;}
+a, a:visited{color:white;}
 a:hover{color:#4e8cc3;}
